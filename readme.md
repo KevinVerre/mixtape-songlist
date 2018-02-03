@@ -4,4 +4,4 @@ Link to playlist in Spotify:
 
 Link to playlist as text file:
 
-[https://github.com/…/mixtape-songl…/blob/master/songlist.txt](https://github.com/…/mixtape-songl…/blob/master/songlist.txt)
+[https://github.com/KevinVerre/mixtape-songlist/blob/master/songlist.txt](https://github.com/KevinVerre/mixtape-songlist/blob/master/songlist.txt)
