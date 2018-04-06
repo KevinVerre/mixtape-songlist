@@ -50,6 +50,8 @@ Aperture Science Psychoacoustic Laboratories | Still Alive
 Aperture Science Psychoacoustic Laboratories | Want You Gone
 Aqua | Lollipop (Candyman)
 Arcade Fire | Everything Now
+Aretha Franklin | I Say a Little Prayer
+Aretha Franklin | Respect
 Art vs Science | Hollywood
 The Ataris | The Boys of Summer
 Audioslave | I Am the Highway
@@ -74,6 +76,7 @@ The Beach Boys | Help Me, Rhonda
 The Beach Boys | Surfin' U.S.A.
 The Beach Boys | Wouldn't It Be Nice - 2000 - Remaster
 The Beatles | Across The Universe - Remastered
+The Beatles | Act Naturally - Remastered
 The Beatles | A Day In The Life - Remastered
 The Beatles | A Hard Day's Night - Remastered 2015
 The Beatles | All My Loving - Remastered
@@ -116,18 +119,22 @@ The Beatles | Oh! Darling - Remastered
 The Beatles | Paperback Writer - Remastered 2015
 The Beatles | Penny Lane - Remastered
 The Beatles | Revolution - Remastered
+The Beatles | Rocky Raccoon - Remastered
 The Beatles | Sgt. Pepper's Lonely Hearts Club Band - Remastered
 The Beatles | She Loves You - Mono / Remastered
 The Beatles | Something - Remastered
 The Beatles | Strawberry Fields Forever - Remastered
 The Beatles | The Word - Remastered
 The Beatles | Ticket To Ride - Remastered 2015
+The Beatles | Till There Was You - Remastered
 The Beatles | Tomorrow Never Knows - Remastered
 The Beatles | Twist And Shout - Remastered
 The Beatles | While My Guitar Gently Weeps - Remastered
 The Beatles | With A Little Help From My Friends - Remastered
 The Beatles | Yesterday - Remastered
+The Beatles | You're Going To Lose That Girl - Remastered
 The Beatles | You've Got To Hide Your Love Away - Remastered
+The Beatles | You Can't Do That - Remastered
 The Beatles | You Never Give Me Your Money - Remastered
 Beck | E-Pro
 Beck | Go It Alone
@@ -184,6 +191,7 @@ Bon Jovi | It's My Life
 Bon Jovi | Livin' On A Prayer
 Bon Jovi | You Give Love A Bad Name
 Bonnie McKee | American Girl
+Boots Randolph | Yakety Sax - Theme from "the Benny Hill Show" (feat. Dominik Hauser)
 Boston | Foreplay / Long Time
 Boyce Avenue | Torn
 BOY | Little Numbers
@@ -204,6 +212,7 @@ Buster Poindexter And His Banshees Of Blue | Hot Hot Hot
 The Byrds | Turn! Turn! Turn! (To Everything There Is a Season)
 C & C Music Factory | Gonna Make You Sweat (Everybody Dance Now)
 C418 | Sweden
+Cage The Elephant | Ain't No Rest for the Wicked
 Cake | Comfort Eagle
 Cake | Commissioning a Symphony In C
 Cake | I Will Survive
@@ -329,7 +338,10 @@ Dolphin Smiling | Goodbye Moonmen (From "Rick and Morty")
 Don McLean | American Pie
 The Doobie Brothers | Listen To The Music
 The Doobie Brothers | Long Train Runnin'
+The Doors | Break On Through (To The Other Side)
 The Doors | Light My Fire
+The Doors | Riders On The Storm
+The Doors | The Crystal Ship
 Dr. Lonnie Smith;George Benson;Ron Carter;Joe Lovano | It's Changed
 Drake | Hotline Bling
 Duffy | Mercy
@@ -342,6 +354,8 @@ Duran Duran | Notorious
 Duran Duran | Ordinary World
 Duran Duran | The Reflex - Single Version;2010 Remastered Version
 Eagles | Hotel California - Remastered
+Earth, Wind & Fire;The Emotions | Boogie Wonderland
+Earth, Wind & Fire | Let's Groove
 Earth, Wind & Fire | September
 Echosmith | Bright
 Eddie Money | Two Tickets to Paradise
@@ -361,6 +375,8 @@ ELIZA | Pack Up
 Ella Fitzgerald;Chick Webb | The Dipsy Doodle
 Elle King | Ex's & Oh's
 Ellie Goulding | Lights - Single Version
+Elton John;Kiki Dee | Don't Go Breaking My Heart - Remastered
+Elton John | Bennie And The Jets - Remastered 2014
 Elton John | Goodbye Yellow Brick Road - Remastered 2014
 Elton John | Saturday Night’s Alright (For Fighting) - Remastered
 Elton John | Tiny Dancer
@@ -396,6 +412,7 @@ Evanescence | My Immortal
 Eve 6 | Inside Out
 Evergreen | Be Like You
 Everlast | What It's Like
+Faces | Ooh La La
 Faith No More | Epic
 Falco | Der Kommissar
 Falco | Rock Me Amadeus - The Gold Mix
@@ -424,8 +441,10 @@ Fleetwood Mac | Dreams - 2004 Remastered Edition
 Fleetwood Mac | Everywhere - Remastered
 Fleetwood Mac | Go Your Own Way - 2004 Remastered Edition
 Fleetwood Mac | Landslide
+Fleetwood Mac | Never Going Back Again - 2004 Remastered Edition
 Fleetwood Mac | Rhiannon
 Fleetwood Mac | The Chain - 2004 Remastered Edition
+Fleetwood Mac | You Make Loving Fun - 2004 Remastered Edition
 Flight of the Conchords | Carol Brown
 Flight of the Conchords | Foux Du Fafa
 Flight of the Conchords | Hurt Feelings
@@ -445,9 +464,11 @@ Foster The People | Houdini
 Foster The People | Pumped Up Kicks
 Foster The People | Sit Next to Me
 The Foundations | Build Me Up Buttercup
+Four Tops | I Can't Help Myself (Sugar Pie, Honey Bunch)
 Four Tops | Reach Out, I'll Be There
 Foxygen | Shuggie
 Foxy Shazam | Unstoppable
+Frank Sinatra;Count Basie | Fly Me To The Moon
 Frank Sinatra;Nancy Sinatra | Somethin' Stupid
 Frank Sinatra | Chicago - 1998 Digital Remaster
 Franz Ferdinand | Take Me Out
@@ -456,6 +477,7 @@ The Fratellis | Flathead
 Fred Astaire | Cheek to Cheek
 Free | All Right Now
 Friend & Lover | Reach Out Of The Darkness (Re-Recorded / Remastered)
+The Friends Of Distinction | Grazing In the Grass
 Fulkultur | Fuldans
 Galt MacDermot;Tom Pierson | The Flesh Failures (Let the Sunshine In)
 GameChops;Smooth McGroove;Grimecraft | Stickerbrush Symphony (Donkey Kong Country Remix)
@@ -482,6 +504,7 @@ The Glitch Mob | We Can Make The World Stop
 GlobulDub | Fly Away
 Gloria Gaynor | I Am What I Am
 Gloria Gaynor | I Will Survive
+The Go-Go's | Our Lips Are Sealed
 The Go-Go's | We Got The Beat
 Goldfinger | Superman
 Good Knight Productions | Ocarina Of Time - Gerudo Valley
@@ -500,12 +523,23 @@ Guster | Fa Fa
 Guster | Satellite
 Haddaway | What Is Love
 Hailee Steinfeld;Grey;Zedd | Starving
+Halsey | Bad At Love
 Hans Zimmer;Lebo M. | This Land
 Hans Zimmer | ...To Die For
 Harry Chapin | Cat's In The Cradle
+Harry Nilsson | Coconut - Remastered
+Harry Nilsson | Everybody's Talkin' - From "Midnight Cowboy"
+Harry Nilsson | One
+Harry Nilsson | You Can't Do That
+Hazel English | I'm Fine
+Hazel English | Never Going Home
 Heart | Barracuda
 Heart | Crazy On You
+Herman's Hermits | I'm Into Something Good
+Herman's Hermits | No Milk Today
 Hogni | Bow Down (To No Man)
+The Hollies | Long Cool Woman (In A Black Dress) - 1999 Remastered Version
+The Hollies | The Air That I Breathe - 2008 Remastered Version
 Hot Chocolate | Every 1's A Winner - Single Version
 Hot Hot Heat | Bandages
 Howard Jones | Things Can Only Get Better
@@ -538,6 +572,8 @@ The Jackson 5 | I Want You Back
 Jain | Come
 Jain | Makeba
 James Horner | Jake enters his avatar world
+James Taylor | Fire And Rain
+James Taylor | You've Got A Friend
 Jamiroquai | Virtual Insanity - Remastered
 Jason Aldean | Burnin' It Down
 Jason Derulo | Ridin' Solo
@@ -551,6 +587,7 @@ Jem | They
 Jerry Folk;Nevve | Life Under Water
 Jerry Herman;Barbra Streisand | Before The Parade Passes By
 Jerry Herman;Michael Crawford;Barbra Streisand;Company | Put On Your Sunday Clothes
+Jerry Lee Lewis | Great Balls Of Fire
 Jerry Martin | Mall Rat
 Jet | Are You Gonna Be My Girl
 Jewel | Who Will Save Your Soul
@@ -629,8 +666,12 @@ The Kingsmen | Louie Louie
 The Kinks | All Day and All of the Night
 The Kinks | Lola - Coca Cola Version
 The Kinks | You Really Got Me - Mono Mix
+KISS | Rock And Roll All Nite
 Kitaro | Theme From Silk Road
 The Knack | My Sharona
+Koei Tecmo Games Co., Ltd. | Credits - NES
+Koei Tecmo Games Co., Ltd. | Requiem - NES
+Koei Tecmo Games Co., Ltd. | The Dragon Ninja - NES
 Koji Kondo;London Philharmonic Orchestra;Andrew Skeet | Legend of Zelda: Suite
 Koji Kondo;London Philharmonic Orchestra;Andrew Skeet | Super Mario Bros: Theme
 Koji Kondo;Mahito Yokota;London Philharmonic Orchestra;Andrew Skeet | Super Mario Galaxy: Gusty Garden Galaxy
@@ -679,7 +720,9 @@ Linkin Park | One More Light
 Lipps Inc. | Funky Town
 Little Eva | The Locomotion
 Little Richard | Good Golly Miss Molly
+Little Richard | Long Tall Sally
 Little Richard | Mockingbird Sally
+Little Richard | Tutti Frutti
 Liz Callaway | Once Upon a December (From The "Anastasia" Soundtrack)
 LMFAO;Lauren Bennett;GoonRock | Party Rock Anthem
 Lo-Fang | You're the One That I Want
@@ -719,8 +762,10 @@ Mark Ronson;Amy Winehouse | Valerie - Version Revisited
 Mark Ronson;Lily Allen | Oh My God
 Maroon 5 | This Love
 Maroon 5;SZA | What Lovers Do (feat. SZA)
+Martha Reeves & The Vandellas | Dancing In The Street
 Martin Garrix;Dua Lipa | Scared to Be Lonely
 Martin O'Donnell;Michael Salvatori | Halo
+The Marvelettes | Please Mr. Postman
 Marvin Gaye;Tammi Terrell | Ain't No Mountain High Enough
 Mason Williams | Classical Gas
 Matthew Wilder | Break My Stride
@@ -763,6 +808,8 @@ Moisés Nieto | Mii Channel Theme (From "Nintendo Wii")
 Moisés Nieto | Title Theme (From "Ocarina of Time")
 The Monkees | Daydream Believer
 The Monkees | I'm a Believer
+The Moody Blues | Nights In White Satin - Single Version / Mono Mix
+The Moody Blues | The Story In Your Eyes
 The Moody Blues | Tuesday Afternoon (Forever Afternoon) - Edit Single Version
 Morcheeba | Part Of The Process
 Morcheeba | Rome Wasn't Built In A Day
@@ -794,6 +841,7 @@ New Order | True Faith - (7'' Edit) [2015 Remastered Version]
 The New Orleans Swamp Donkeys Traditional Jass Band | Theme from Game of Thrones
 The New Pornographers | Champions Of Red Wine
 The New Pornographers | The Bleeding Heart Show
+New Radicals | Someday We'll Know
 New Radicals | You Get What You Give
 The New York Synthony Orchestra | Elder Scrolls III - Morrowind
 Nickelback | How You Remind Me
@@ -871,8 +919,11 @@ Phoenix | J-Boy
 Phoenix | Lisztomania
 Pinback | Good To Sea
 Pink Floyd | Another Brick in the Wall, Pt. 2
+Pink Floyd | Brain Damage
 Pink Floyd | Comfortably Numb
+Pink Floyd | Side 3, Pt. 4: Allons-y (1)
 Pink Floyd | Wish You Were Here
+Pixies | Where Is My Mind?
 Plain White T's | Hey There Delilah
 The Police | Every Little Thing She Does Is Magic - Remastered 2003
 The Police | Roxanne - Remastered 2003
@@ -880,8 +931,10 @@ The Police | Synchronicity II - Remastered 2003
 Poolside | Feel Alright
 Portugal. The Man | Everything You See (Kids Count Hallelujahs)
 Portugal. The Man | Feel It Still
+Portugal. The Man | Live In The Moment
 The Postal Service | Such Great Heights
 The Presidents Of The United States Of America | Lump
+Pretenders;Bob Clearmountain | I'll Stand By You
 The Proclaimers | I'm Gonna Be (500 Miles)
 The Prodigy | Climbatize
 Quad City DJ's | Space Jam
@@ -909,6 +962,7 @@ Ramin Djawadi | Main Title
 Ram Jam | Black Betty
 Ratatat | Cherry
 Ratatat | Loud Pipes
+Ray Charles | Hit the Road Jack
 Ray Lynch | No Blue Thing
 Real McCoy | Another Night
 Redbone | Come and Get Your Love - Re-Record
@@ -942,7 +996,10 @@ Rodrigo y Gabriela | Hanuman
 Rodrigo y Gabriela | Tamacun - Remastered
 The Rolling Stones | (I Can't Get No) Satisfaction - Mono Version / Remastered 2002
 The Rolling Stones | Gimme Shelter
+The Rolling Stones | Jumpin' Jack Flash - Mono / Remastered
+The Rolling Stones | Paint It, Black
 The Rolling Stones | Ruby Tuesday - Stereo Version
+The Rolling Stones | Start Me Up
 The Rolling Stones | Sympathy For The Devil
 The Rolling Stones | You Can't Always Get What You Want
 The Romantics | What I Like About You
@@ -963,6 +1020,7 @@ Saint Motel | Cold Cold Man
 Saint Motel | My Type
 Saint Motel | Something About Us - Recorded at Spotify Studios NYC
 Sam & Dave | Hold On, I'm Comin'
+Sam Cooke | Cupid
 Sammie | Miss Understood
 Sam Smith | I'm Not The Only One
 Santana;Rob Thomas | Smooth
@@ -999,6 +1057,7 @@ Scott McKenzie | San Francisco (Be Sure to Wear Flowers in Your Hair)
 Seal | Kiss From A Rose
 Seether | Fine Again
 SEGA SOUND TEAM;Jun Senoue | Keys The Ruin ...for Pyramid Cave
+SEGA SOUND TEAM;Tomoya Ohtani | Space Trip Steps ...for Meteor Herd
 Selena Gomez & The Scene | A Year Without Rain
 Selena Gomez & The Scene | Love You Like A Love Song
 Selena y los Dinos | Como La Flor - Remastered Version
@@ -1059,7 +1118,9 @@ Soundgarden | Black Hole Sun
 The Source & Candi Staton;The Source;Candi Staton | You Got The Love - New Voyager Radio Edit
 Spandau Ballet | True
 Spice Girls | Say You'll Be There - Single Mix
+Spin Doctors | Little Miss Can't Be Wrong
 Spin Doctors | Two Princes
+The Spinners | The Rubberband Man
 Spoon | The Way We Get By
 Squirrel Nut Zippers | Got My Own Thing Now - Remastered 2016
 Squirrel Nut Zippers | Put A Lid On It
@@ -1076,6 +1137,7 @@ Steve Miller Band | Rock'n Me
 Steve Miller Band | Take The Money And Run
 Steve Winwood | Valerie
 Stevie Nicks | Edge of Seventeen - Remastered
+Stevie Ray Vaughan | Pride and Joy
 Stevie Wonder | Higher Ground
 Stevie Wonder | Sir Duke
 Stevie Wonder | Sir Duke
@@ -1113,6 +1175,7 @@ Sweet | Ballroom Blitz
 T. Rex | Bang a Gong (Get It On) - Remastered Version
 T.V. Carpio | I Want To Hold Your Hand - From "Across The Universe" Soundtrack
 Tal Bachman | She's so High
+Talking Heads | Burning Down The House (45 Version)
 Taylor Swift | Getaway Car
 Taylor Swift | Wildest Dreams
 Tears For Fears | Head Over Heels - Dave Bascombe 7" N.Mix
@@ -1123,6 +1186,7 @@ Ted Leo and the Pharmacists;The Pharmacists | Me and Mia
 Tegan and Sara;The Lonely Island | Everything Is AWESOME!!!
 Tegan and Sara | Faint of Heart
 Tegan and Sara | Walking With a Ghost
+The Temptations | Get Ready
 The Temptations | My Girl
 The Temptations | Papa Was A Rollin' Stone
 TheFatRat;Laura Brehm | Monody (feat. Laura Brehm)
@@ -1138,6 +1202,7 @@ Thomas Bergersen;Two Steps from Hell | Protectors of the Earth
 Thomas Bergersen;Two Steps from Hell | Strength of a Thousand Men
 Thomas Bergersen;Two Steps from Hell | To Glory
 Thomas Dolby | She Blinded Me With Science
+Three Dog Night | Joy To The World
 Timbaland;OneRepublic | Apologize
 Tina Turner | Goldeneye - 2003 Remastered Version
 The Ting Tings | Shut Up and Let Me Go
@@ -1160,6 +1225,7 @@ Train | 50 Ways to Say Goodbye
 Train | Drive By
 Train | Drops of Jupiter
 Train | Hey, Soul Sister
+The Trammps | Disco Inferno - Single Edit
 Transplants | Diamonds And Guns
 Travis | Sing
 Travis | Why Does It Always Rain on Me?
@@ -1169,7 +1235,11 @@ The Turtles | Happy Together
 The Turtles | She'd Rather Be With Me
 Twenty One Pilots | Stressed Out
 TWICE | Like OOH-AHH - Japanese ver.
+TWICE | LIKEY
+Two Feet | I Feel Like I'm Drowning
 Two Steps from Hell;Thomas Bergersen | Victory
+Tycho | Hours
+Tycho | L
 Télépopmusik | Breathe
 Télépopmusik | Breathe - Radio Edit
 U2 | Beautiful Day
@@ -1188,6 +1258,7 @@ Van William;First Aid Kit | Revolution (feat. First Aid Kit)
 The Verve Pipe | The Freshmen
 The Verve | Bitter Sweet Symphony
 The Verve | Lucky Man
+Video Game Players | Zelda's Lullaby (From "the Legend of Zelda: Ocarina of Time")
 Video Games Live | Super Mario World
 Vince Guaraldi Trio | Linus And Lucy
 Violent Femmes | Blister in the Sun - 2002 Remastered Version
@@ -1228,5 +1299,6 @@ Yusuf / Cat Stevens | Wild World
 Zedd;Alessia Cara | Stay (with Alessia Cara)
 Zero 7 | In The Waiting Line
 Zombie Hyperdrive | Red Eyes
+The Zombies | This Will Be Our Year
 The Zombies | Time Of The Season (Mono Version)
 Çyrah & The Gregory Brothers feat. DeStorm;The Gregory Brothers;DeStorm;Çyrah | DJ Play My Song
